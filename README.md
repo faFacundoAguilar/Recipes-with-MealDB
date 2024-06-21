@@ -1,5 +1,4 @@
-https://github.com/faFacundoAguilar/Recipes-with-MealDB/assets/124779712/28dd0ea0-d5f0-4234-81bc-2b5f9bd00882
-Uploading 202406201825.mp4…
+https://github.com/faFacundoAguilar/Recipes-with-MealDB/assets/124779712/da76d533-d957-4183-a81b-30b0731ea9b8
 ## Recipe APIs
 - This project allows users to search for recipes based on specific ingredients using the MealDB API. It is built with HTML, Tailwind CSS, and JavaScript.
  ## Features
